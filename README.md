@@ -1,4 +1,4 @@
-# D7042E Project
+# IoT-based-industrial-automation-and-digitalization-of-transport-machine
 This is a school project for learning Eclipse arrowhead framework.
 
 I used the [go sdk](https://github.com/eislab-cps/arrowhead-client-go) to implement my cloud. 
